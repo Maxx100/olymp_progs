@@ -1,5 +1,3 @@
-// у меня сломались прагмы :(
-
 /*#pragma GCC optimize("Ofast")
 #pragma GCC optimize("unroll-loops")
 #pragma GCC optimize("O3")
@@ -157,10 +155,3 @@ int main() {
     while (t--) solve();
     return 0;
 }
-/*
-
-=)
-C>
-:)
-
-*/
